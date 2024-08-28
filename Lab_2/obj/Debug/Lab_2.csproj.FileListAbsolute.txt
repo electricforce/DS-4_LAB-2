@@ -1,0 +1,10 @@
+C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.pdb
