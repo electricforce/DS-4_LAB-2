@@ -1,0 +1,10 @@
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.pdb

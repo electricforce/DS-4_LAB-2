@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adrir\\source\\repos\\Lab_2\\",
+  "WorkspaceRootPath": "C:\\Users\\adrir\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\Documentos\\4. Semestre\\DS4\\Portafolio Estudiantil_DS4\\4. Actividades o Asignaciones\\4. Laboratorios o Talleres\\Lab_2\\Lab_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16E969C8-B718-4D0C-B104-3749C77D9876}|Lab_2.csproj|c:\\users\\adrir\\source\\repos\\lab_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{16E969C8-B718-4D0C-B104-3749C77D9876}|Lab_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{16E969C8-B718-4D0C-B104-3749C77D9876}|Lab_2.csproj|c:\\users\\adrir\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\documentos\\4. semestre\\ds4\\portafolio estudiantil_ds4\\4. actividades o asignaciones\\4. laboratorios o talleres\\lab_2\\lab_2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16E969C8-B718-4D0C-B104-3749C77D9876}|Lab_2.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +23,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\adrir\\source\\repos\\Lab_2\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\adrir\\source\\repos\\Lab_2\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adrir\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\Documentos\\4. Semestre\\DS4\\Portafolio Estudiantil_DS4\\4. Actividades o Asignaciones\\4. Laboratorios o Talleres\\Lab_2\\Lab_2\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\adrir\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\Documentos\\4. Semestre\\DS4\\Portafolio Estudiantil_DS4\\4. Actividades o Asignaciones\\4. Laboratorios o Talleres\\Lab_2\\Lab_2\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T15:49:32.833Z",
+              "WhenOpened": "2024-08-28T16:56:12.718Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
