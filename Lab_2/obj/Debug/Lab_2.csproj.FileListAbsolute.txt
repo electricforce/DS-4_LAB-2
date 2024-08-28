@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\bin\Debug\Lab_2.exe.config
 C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\bin\Debug\Lab_2.exe
 C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\bin\Debug\Lab_2.pdb
@@ -8,3 +9,15 @@ C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.csproj.Gen
 C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
 C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.exe
 C:\Users\isall\Documents\DS IV\Lab 2\DS-4_LAB-2\Lab_2\obj\Debug\Lab_2.pdb
+=======
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\adrir\OneDrive - Universidad Tecnológica de Panamá\Documentos\4. Semestre\DS4\Portafolio Estudiantil_DS4\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+>>>>>>> 239cb0aa6e909b6ae7ebe5ea69308b84c456c69d

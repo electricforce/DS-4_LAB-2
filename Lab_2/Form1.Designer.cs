@@ -153,6 +153,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.BackColor = System.Drawing.Color.LightBlue;
             this.ClientSize = new System.Drawing.Size(338, 395);
             this.Controls.Add(this.btCalcular);
@@ -172,6 +173,10 @@
             this.ResumeLayout(false);
             this.PerformLayout();
 
+=======
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "Taylor";
+>>>>>>> 239cb0aa6e909b6ae7ebe5ea69308b84c456c69d
         }
 
         #endregion
